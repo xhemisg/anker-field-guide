@@ -1,0 +1,15 @@
+{
+  "name": "ANKER Field Guide",
+  "short_name": "ANKER",
+  "description": "Interaktiver Vertriebsleitfaden. Unabhängiges Studentenprojekt der Universität St. Gallen (HSG). Keine offizielle Hilti-Anwendung.",
+  "lang": "de-CH",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#1C1F24",
+  "icons": [
+    { "src": "anker-icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "anker-icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
