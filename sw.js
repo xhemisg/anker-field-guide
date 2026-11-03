@@ -1,5 +1,5 @@
 // Hält den ANKER Field Guide nach dem ersten Aufruf offline verfügbar, wenn er über HTTPS bereitgestellt wird.
-const CACHE = 'anker-field-guide-v1'
+const CACHE = 'anker-field-guide-v2'
 const DATEIEN = ['./', './index.html', './manifest.webmanifest', './anker-icon-192.png', './anker-icon-512.png', './anker-icon-180.png']
 
 self.addEventListener('install', (ereignis) => {
